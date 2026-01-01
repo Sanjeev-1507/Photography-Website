@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btnLinks{
+    @apply font-medium hover:text-yellow-500 hover:text-shadow-md hover:shadow-black text-lg px-5 py-2
+}
+
